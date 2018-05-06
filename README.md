@@ -101,3 +101,5 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 ** test code **
 
 ** Test 30 Apr code review **
+
+** Test 30 APr QA metric **
